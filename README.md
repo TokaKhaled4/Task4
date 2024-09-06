@@ -1,4 +1,4 @@
-# My Advanced Blog - README
+# My Advanced Blog
 
 ## Overview
 This project is a fully responsive, modern blog website built with HTML, CSS, and Bootstrap. It includes advanced styling for a clean and professional look, with smooth hover animations and dynamic elements like a "Back to Top" button and a Bootstrap navigation bar.
